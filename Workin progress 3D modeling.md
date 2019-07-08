@@ -44,3 +44,61 @@
 ![Image alt](https://github.com/SergeyAfonin/ONU_Team_25.01.17/blob/master/3D_Model_Building%20bloks/LaboratoryEquipment/TermoCycler/THermalCyclerSystem_01.jpg)
 ![Image alt](https://github.com/SergeyAfonin/ONU_Team_25.01.17/blob/master/3D_Model_Building%20bloks/LaboratoryEquipment/TermoCycler/THermalCyclerSystem_02.jpg)
 ![Image alt](https://github.com/SergeyAfonin/ONU_Team_25.01.17/blob/master/3D_Model_Building%20bloks/LaboratoryEquipment/TermoCycler/THermalCyclerSystem_03.jpg)
+
+21.04.2017 - 1.05.2017
+
+Make model:
+- MicroWave
+![Image alt](https://github.com/SergeyAfonin/ONU_Team_25.01.17/blob/master/3D_Model_Building%20bloks/LaboratoryEquipment/MicroWave/MicroWave_01.jpg)
+![Image alt](https://github.com/SergeyAfonin/ONU_Team_25.01.17/blob/master/3D_Model_Building%20bloks/LaboratoryEquipment/MicroWave/MicroWave_02.jpg)
+![Image alt](https://github.com/SergeyAfonin/ONU_Team_25.01.17/blob/master/3D_Model_Building%20bloks/LaboratoryEquipment/MicroWave/MicroWave_03.jpg)
+![Image alt](https://github.com/SergeyAfonin/ONU_Team_25.01.17/blob/master/3D_Model_Building%20bloks/LaboratoryEquipment/MicroWave/MicroWave_04.jpg)
+![Image alt](https://github.com/SergeyAfonin/ONU_Team_25.01.17/blob/master/3D_Model_Building%20bloks/LaboratoryEquipment/MicroWave/MicroWave_05.jpg)
+https://github.com/SergeyAfonin/ONU_Team_25.01.17/blob/master/3D_Model_Building%20bloks/LaboratoryEquipment/MicroWave/MicroWave_UnityAsset.mp4
+
+Make Unity assets:
+
+- LaboratoryBalance.unitypackage
+https://github.com/EMICVL/ONU_Team_25.01.17/blob/55490491b3999204e07d00f0f0ee0da663258e3c/3D_Model_Building%20bloks/LaboratoryEquipment/Balance/LaboratoryBalance.unitypackage
+- ElectrophoresisPack.unitypackage
+https://github.com/EMICVL/ONU_Team_25.01.17/blob/4ff970e3f818cc49592c696b90c9e2adb33abdf6/3D_Model_Building%20bloks/LaboratoryEquipment/Electrophores/ElectrophoresisPack.unitypackage
+- MicroWave.unitypackage
+https://github.com/EMICVL/ONU_Team_25.01.17/blob/4ff970e3f818cc49592c696b90c9e2adb33abdf6/3D_Model_Building%20bloks/LaboratoryEquipment/MicroWave/MicroWave.unitypackage
+- ThermoCyclerModel.unitypackage
+https://github.com/SergeyAfonin/ONU_Team_25.01.17/blob/master/3D_Model_Building%20bloks/LaboratoryEquipment/TermoCycler/ThermoCyclerModel.unitypackage
+- TransIlluminatorPackage.unitypackage
+https://github.com/EMICVL/ONU_Team_25.01.17/blob/4ff970e3f818cc49592c696b90c9e2adb33abdf6/3D_Model_Building%20bloks/LaboratoryEquipment/TransIlluminator/TransIlluminatorPackage.unitypackage
+
+Make video:
+
+- LaboratoryBalance_UnityAsset.mp4
+https://github.com/SergeyAfonin/ONU_Team_25.01.17/blob/master/3D_Model_Building%20bloks/LaboratoryEquipment/Balance/LaboratoryBalance_UnityAsset.mp4
+- ElectrophoresisPack_UnityAsset.mp4
+https://github.com/SergeyAfonin/ONU_Team_25.01.17/blob/master/3D_Model_Building%20bloks/LaboratoryEquipment/Electrophores/ElectrophoresisPack_UnityAsset.mp4
+- MicroWave_UnityAsset.mp4
+https://github.com/SergeyAfonin/ONU_Team_25.01.17/blob/master/3D_Model_Building%20bloks/LaboratoryEquipment/MicroWave/MicroWave_UnityAsset.mp4
+- TermalCycler_UnityAsset.mp4
+https://github.com/SergeyAfonin/ONU_Team_25.01.17/blob/master/3D_Model_Building%20bloks/LaboratoryEquipment/TermoCycler/TermalCycler_UnityAsset.mp4
+- TranceIlluminator_UnityAsset.mp4
+https://github.com/SergeyAfonin/ONU_Team_25.01.17/blob/master/3D_Model_Building%20bloks/LaboratoryEquipment/TransIlluminator/TranceIlluminator_UnityAsset.mp4
+
+2.05.2017 - 8.05.2017
+
+Make Unity Prefabs Laboratory GlassWare:
+
+- Laboratory GlassWare_UnityAsset.mp4
+https://github.com/SergeyAfonin/ONU_Team_25.01.17/blob/master/3D_Model_Building%20bloks/LaboratoryEquipment/LaboratoryGlassWare/LaboratoryGlassWare.mp4
+- Laboratory GlassWare_UnityAsset.unitypackage
+https://github.com/SergeyAfonin/ONU_Team_25.01.17/blob/master/3D_Model_Building%20bloks/LaboratoryEquipment/LaboratoryGlassWare/LaboratoryGlassWare.unitypackage
+
+8.05.2017 - 24.05.2017
+
+Make Unity Prefabs Laboratory PlasticWare:
+- Laboratory PlasticWare.mp4
+https:/https://github.com/SergeyAfonin/ONU_Team_25.01.17/blob/master/3D_Model_Building%20bloks/LaboratoryEquipment/LaboratoryPlasticWare/LaboratoryPlasticWare.mp4
+
+- Laboratory PlasticWare.unitypackage
+https://github.com/SergeyAfonin/ONU_Team_25.01.17/blob/master/3D_Model_Building%20bloks/LaboratoryEquipment/LaboratoryPlasticWare/LaboratoryPlasticWare.unitypackage
+
+
+

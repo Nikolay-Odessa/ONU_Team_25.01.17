@@ -6,6 +6,7 @@ _________________________
 - [Demo 3D simulation](https://youtu.be/c8QSCXBFZF0)
 - [Overview of the virtual laboratory with simulations](https://www.youtube.com/watch?v=Len1WX-vDy8&t=704s)
 
+
 ______________________________
 
 # The composition of the repository:
@@ -18,3 +19,7 @@ ______________________________
 - PCR_script.PDF –  Full PCR protocol instruction/script/text from DNA isolation through PCR to results detection.
 - PCR_script_description_final_v1.PDF –  Full PCR script (table) with time shots, pictures and comments.
 
+_______________________________
+
+# Virtual laboratory video:
+- [Overview of the virtual laboratory with simulations](https://www.youtube.com/watch?v=Len1WX-vDy8&t=704s)
